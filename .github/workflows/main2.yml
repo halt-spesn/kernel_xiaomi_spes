@@ -27,6 +27,7 @@ jobs:
           aosp-clang: true
           ksu-other: true
           ksu-url: https://github.com/KernelSU-Next/KernelSU-Next
+          ksu-version: v3.3.0
           aosp-clang-version: r547379
           anykernel3: true
           anykernel3-url: https://github.com/muralivijay/AnyKernel3
